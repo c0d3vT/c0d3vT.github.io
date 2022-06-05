@@ -1,6 +1,6 @@
 # White Devils Sec
-![alt text][logo]
-[logo]: https://github.com/c0d3vT/c0d3vT.github.io/WDevilsLogo1.png "Wdevils-logo"
+## Who We Are 
+
 ## Contact Us :
 - [Discord](https://discord.com/invite/tV57ycqEnD)
 - [Telegram](https://t.me/wdevilsteam)
